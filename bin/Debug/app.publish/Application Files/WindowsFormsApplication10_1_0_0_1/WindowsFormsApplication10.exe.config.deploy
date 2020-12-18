@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<configuration>
+<configSections>
+    <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+        <section name="WindowsFormsApplication10.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+    </sectionGroup>
+</configSections>
+<startup useLegacyV2RuntimeActivationPolicy="true"><supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/></startup><userSettings>
+        <WindowsFormsApplication10.Properties.Settings>
+            <setting name="server" serializeAs="String">
+                <value>DESKTOP-50SF8F9</value>
+            </setting>
+            <setting name="database" serializeAs="String">
+                <value>centra</value>
+            </setting>
+            <setting name="mode" serializeAs="String">
+                <value>SQL</value>
+            </setting>
+            <setting name="id" serializeAs="String">
+                <value>sa</value>
+            </setting>
+            <setting name="password" serializeAs="String">
+                <value>dontcare</value>
+            </setting>
+        </WindowsFormsApplication10.Properties.Settings>
+    </userSettings>
+</configuration>
